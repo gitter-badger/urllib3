@@ -143,3 +143,8 @@ Sponsorship
 
 If your company benefits from this library, please consider `sponsoring its
 development <http://urllib3.readthedocs.org/en/latest/#sponsorship>`_.
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/denim2x/urllib3
+   :target: https://gitter.im/denim2x/urllib3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
